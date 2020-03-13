@@ -1,0 +1,15 @@
+.redBorder{
+    border-style: solid;    
+    border-width: 1px;
+    border-color: red;    
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-bottom: 30px;;
+}
+
+hr{
+    margin-bottom: 20px;
+}
